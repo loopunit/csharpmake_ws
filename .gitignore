@@ -350,3 +350,4 @@ MigrationBackup/
 .ionide/
 out/
 pkg/
+sharpmake_workspace.sln
